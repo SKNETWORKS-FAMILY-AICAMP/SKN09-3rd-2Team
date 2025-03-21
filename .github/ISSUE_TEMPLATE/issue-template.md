@@ -8,11 +8,13 @@ assignees: ''
 ---
 
 ---
+
 name: 작업 내용 공유
 about: 어떤 작업을 했고, 어느 브랜치에 반영했는지 기록하는 이슈 템플릿입니다.
 title: "[작업공유] 작업 요약 작성"
 labels: 작업공유, documentation
 assignees: []
+
 ---
 
 ## ✅ 작업 요약
