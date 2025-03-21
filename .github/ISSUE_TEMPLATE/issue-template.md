@@ -1,3 +1,12 @@
+---
+name: issue template
+about: 작업할 내용들 작성해주세요
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## 📌 기능명
 요청하고자 하는 기능이나 개선 사항을 명확하게 설명해주세요.
 
