@@ -34,7 +34,7 @@
 
 | 윤 환 | 이세진 | 이재혁 | 허정윤 |
 |------|------|------|------|
-| [@jy](https://github.com/devunis) | [@MNYH](https://github.com/MNYH) | [@ohdyo](https://github.com/ohdyo) | [@sejin](https://github.com/tpwls9494) |
+| [@MNYH](https://github.com/MNYH) | [@sejin](https://github.com/tpwls9494) | [@ohdyo](https://github.com/ohdyo) | [@jy](https://github.com/devunis) |
 
 
 ---
