@@ -51,23 +51,15 @@
 
 ## 2. 프로젝트 소개
 #### 프로젝트 필요성
-- 정보의 분산과 복잡성
-  항공사, 국가, 도시마다 다른 규정과 정보들이 흩어져 있어, 여행 준비 시 시간이 많이 소요됨.
-- 여행 경험의 다양화
-  혼자 여행하는 솔로 여행자, 가족 단위, 시니어층 등 다양한 사용자 니즈에 맞춘 정보가 필요함.
-- 즉시성 & 대화형 인터페이스의 필요
-  검색보다 빠르게, 대화로 정보를 얻고 싶은 사용자의 수요 증가.
-- 외국어/문화 장벽
-  낯선 문화나 언어 장벽으로 인한 실수나 불편을 사전 예방할 수 있는 안내 시스템 필요.
+![image](https://github.com/user-attachments/assets/e62d0e82-be56-4133-b596-d63ddb31efb4)
+![image](https://github.com/user-attachments/assets/731a50ab-849c-4970-b696-f8a53d0ed66b)
 
-<br>
-
-
-<br>
-<br>
+<br><br><br>
 
 **출처**  
+https://news.koreanair.com/%ed%8e%b8%ec%95%88%ed%95%98%ea%b3%a0-%ec%95%88%ec%a0%84%ed%95%9c-%ed%95%ad%ea%b3%b5%ec%97%ac%ed%96%89-%ec%9c%84%ed%95%b4-%eb%8c%80%ed%95%9c%ed%95%ad%ea%b3%b5%ec%9d%b4-%ea%bc%ad-%ed%95%84/
 
+<br><br><br>
 
 #### 프로젝트 목표
 - 여행 정보 통합 제공
