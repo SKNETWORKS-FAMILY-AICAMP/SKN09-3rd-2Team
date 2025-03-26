@@ -49,13 +49,17 @@
 
 ## 2. 프로젝트 소개
 #### 프로젝트 필요성
-![image](https://github.com/user-attachments/assets/e62d0e82-be56-4133-b596-d63ddb31efb4)
-![image](https://github.com/user-attachments/assets/731a50ab-849c-4970-b696-f8a53d0ed66b)
+<img src="https://github.com/user-attachments/assets/248799a3-7949-413e-ad92-6e66c1e1b778" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/2445c053-66dd-4b1e-97b6-1a16e05f2c15" width="500" height="500">
+
+
+
 
 <br>
 
 **출처**  
-https://news.koreanair.com/%ed%8e%b8%ec%95%88%ed%95%98%ea%b3%a0-%ec%95%88%ec%a0%84%ed%95%9c-%ed%95%ad%ea%b3%b5%ec%97%ac%ed%96%89-%ec%9c%84%ed%95%b4-%eb%8c%80%ed%95%9c%ed%95%ad%ea%b3%b5%ec%9d%b4-%ea%bc%ad-%ed%95%84/
+[https://news.koreanair.com/%ed%8e%b8%ec%95%88%ed%95%98%ea%b3%a0-%ec%95%88%ec%a0%84%ed%95%9c-%ed%95%ad%ea%b3%b5%ec%97%ac%ed%96%89-%ec%9c%84%ed%95%b4-%eb%8c%80%ed%95%9c%ed%95%ad%ea%b3%b5%ec%9d%b4-%ea%bc%ad-%ed%95%84/](https://www.yna.co.kr/view/AKR20250129029651003)
+https://www.sisajournal-e.com/news/articleView.html?idxno=409149
 
 <br>
 
