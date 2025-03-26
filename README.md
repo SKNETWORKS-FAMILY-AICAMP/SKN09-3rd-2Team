@@ -54,7 +54,7 @@
 ![image](https://github.com/user-attachments/assets/e62d0e82-be56-4133-b596-d63ddb31efb4)
 ![image](https://github.com/user-attachments/assets/731a50ab-849c-4970-b696-f8a53d0ed66b)
 
-<br><br><br>
+<br>
 
 **출처**  
 https://news.koreanair.com/%ed%8e%b8%ec%95%88%ed%95%98%ea%b3%a0-%ec%95%88%ec%a0%84%ed%95%9c-%ed%95%ad%ea%b3%b5%ec%97%ac%ed%96%89-%ec%9c%84%ed%95%b4-%eb%8c%80%ed%95%9c%ed%95%ad%ea%b3%b5%ec%9d%b4-%ea%bc%ad-%ed%95%84/
@@ -67,9 +67,7 @@ https://news.koreanair.com/%ed%8e%b8%ec%95%88%ed%95%98%ea%b3%a0-%ec%95%88%ec%a0%
 - 문화/에티켓 안내
   현지에서 유의해야 할 문화 예절, 금기 사항, 팁 문화 등을 챗봇이 알려줌.
 - 사용자 맞춤형 대화 응답
-  사용자의 출발지/목적지, 여행 타입(비즈니스/관광/가족 등)에 따른 맞춤형 정보 제공.
-- 멀티 플랫폼 대응
-  웹사이트, 메신저(카카오톡, WhatsApp), 앱 등 다양한 환경에서 접근 가능한 챗봇 구축.
+  사용자가 문의한 반입 금지 품목 및 해당 국가의 문화적 예절에 따라 세심하게 맞춤화된 정보를 제공
 - 언어 다양화 대응
   다국어(한국어, 영어, 일본어 등) 기반 챗봇으로 외국인 관광객 대상 확장 가능성 확보.
 
