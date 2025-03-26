@@ -1,11 +1,3 @@
----
-name: PR template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
----
-
 ## 📌 PR 제목
 <!-- ex: [FIX] 로그인 오류 수정 -->
 
