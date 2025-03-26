@@ -1,0 +1,138 @@
+[
+  {
+    "question": "중국에서 기내에 칼을 반입할 수 있나요?",
+    "answer": "아니요, 중국에서는 주방 칼, 식탁용 나이프, 과도, 다용도 칼, 메스, 가위 등 상품화된 칼 이외의 날카롭거나 둔탁한 도구는 기내 반입이 금지되어 있으며, 이러한 물품은 위탁 수하물로만 운송할 수 있습니다. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "중국동방항공에서 리튬 이온 배터리를 기내에 반입할 수 있나요?",
+    "answer": "중국동방항공에서는 용량이 100Wh를 초과하고 160Wh 미만인 리튬 이온 배터리 또는 배터리 팩은 비위탁 수하물로만 허용되며, 승객 1인당 최대 2개까지 휴대 가능합니다. 단, 민간항공관리국 및 중국동방항공의 운송 안전 요구 사항에 준하는 보호 조치를 취해야 합니다. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "중국남방항공에서 총기류를 수하물로 운송할 수 있나요?",
+    "answer": "중국남방항공에서는 스포츠용 총기 및 탄약을 포함한 총기류는 비위탁 수하물로 기내 반입이 금지되어 있으며, 이러한 물품은 반드시 탄창을 분리하고 잠금 장치가 있는 적절한 포장을 해야 하며, 운송업체의 운송 규정을 준수해야 합니다. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "에어차이나에서 폭발성 또는 가연성 물질을 수하물로 운송할 수 있나요?",
+    "answer": "아니요, 에어차이나에서는 폭발성 또는 가연성 물질 및 장치는 수하물로 운송할 수 없습니다. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "중국에서 전자 담배를 기내에 반입할 수 있나요?",
+    "answer": "중국에서는 전자 담배(전자 파이프, 전자 시가), 가열식 담배, 전자 담배 기화 장치 또는 전자 니코틴 저장품은 위탁 수하물이 아닌 기내 수하물로 운반해야 합니다. 비행 내내 전자 담배 및 가열식 담배의 사용은 금지됩니다. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "중국남방항공에서 라이터를 기내에 반입할 수 있나요?",
+    "answer": "중국남방항공에서는 라이터의 기내 반입에 대한 명확한 규정을 제공하지 않았으므로, 안전을 위해 라이터는 위탁 수하물로 운송하시는 것을 권장합니다. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "중국에서 드라이아이스를 수하물로 운송할 수 있나요?",
+    "answer": "중국에서는 부식 방지용 드라이아이스의 운송이 허용되지만, 항공사별로 규정이 다를 수 있으므로 사전에 해당 항공사에 확인하시기 바랍니다. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "중국동방항공에서 접이식 유모차를 기내에 반입할 수 있나요?",
+    "answer": "중국동방항공에서는 유아를 동반한 승객이 기내에 반입할 수 있는 접이식 유모차의 규격은 접힌 상태 기준으로 가로 55cm, 세로 40cm, 높이 20cm 이하이어야 합니다. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "에어차이나에서 리튬 배터리가 포함된 노트북을 위탁 수하물로 운송할 수 있나요?",
+    "answer": "에어차이나에서는 리튬 배터리가 포함된 노트북 컴퓨터 및 개인 전자제품은 위탁 수하물로 운송할 수 없으며, 기내 수하물로만 운반해야 합니다. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question": "중국남방항공에서 인화성 액체를 수하물로 운송할 수 있나요?",
+    "answer": "중국남방항공에서는 인화성 액체를 포함한 위험 물품은 승객이 휴대하거나 위탁 수하물로 운송하는 것이 금지되어 있습니다. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "question": "중국남방항공에서 리튬 배터리가 포함된 전자기기를 기내에 반입할 수 있나요?",
+    "answer": "네, 중국남방항공에서는 리튬 배터리가 포함된 전자기기를 기내에 반입할 수 있습니다. 단, 리튬 배터리의 용량이 100Wh 이하인 경우 별도의 신고 없이 휴대 가능하며, 100Wh 초과 160Wh 이하인 경우 항공사의 승인이 필요합니다. 160Wh를 초과하는 리튬 배터리는 기내 반입이 금지되어 있습니다. 또한, 예비 배터리와 보조 배터리는 반드시 기내 수하물로만 운반해야 하며, 위탁 수하물로는 운송할 수 없습니다. [출처: China Southern Airlines](https://www.csair.com/en/tourguide/luggage_service/carryon_luggage/)"
+  },
+  {
+    "question": "에어차이나에서 액체 물품을 기내에 반입할 수 있나요?",
+    "answer": "에어차이나에서는 국제 및 지역 항공편의 경우, 각 용기가 100ml 이하인 액체, 젤, 에어로졸 제품을 투명하고 재밀봉 가능한 1리터 이하의 플라스틱 봉투에 담아 기내에 반입할 수 있습니다. 승객당 한 개의 봉투만 허용됩니다. 국내 항공편의 경우, 모든 액체의 기내 반입이 금지되어 있으며, 필요한 경우 위탁 수하물로 운송해야 합니다. [출처: Air China](https://m.airchina.com/c/invoke/xlxxnext/xlxxnext3%40pgenus)"
+  },
+  {
+    "question": "중국남방항공에서 전자담배를 기내에 반입할 수 있나요?",
+    "answer": "중국남방항공에서는 전자담배를 기내에 반입할 수 있으나, 위탁 수하물로 운송하는 것은 금지되어 있습니다. 또한, 비행 중 전자담배의 사용은 엄격히 금지되어 있습니다. [출처: China Southern Airlines](https://www.csair.com/en/tourguide/luggage_service/restrictions/unaccept_items/)"
+  },
+  {
+    "question": "에어차이나에서 휴대용 충전기를 기내에 반입할 수 있나요?",
+    "answer": "에어차이나에서는 휴대용 충전기(보조 배터리)를 기내에 반입할 수 있습니다. 그러나 용량이 100Wh 이하인 경우 별도의 승인 없이 휴대 가능하며, 100Wh 초과 160Wh 이하인 경우 항공사의 승인이 필요합니다. 160Wh를 초과하는 휴대용 충전기는 기내 반입이 금지되어 있습니다. 또한, 휴대용 충전기는 반드시 기내 수하물로만 운반해야 하며, 위탁 수하물로는 운송할 수 없습니다. [출처: Air China](https://m.airchina.com/c/invoke/xlxx%40pg)"
+  },
+  {
+    "question": "중국남방항공에서 스포츠 장비를 위탁 수하물로 운송할 수 있나요?",
+    "answer": "네, 중국남방항공에서는 골프 장비, 스키 장비 등 스포츠 장비를 위탁 수하물로 운송할 수 있습니다. 그러나 각 장비의 크기와 무게 제한이 있으므로, 사전에 항공사에 문의하여 정확한 규정을 확인하는 것이 좋습니다. [출처: China Southern Airlines](https://www.csair.com/cts-products/group1/M00/0D/E3/rBtJFGduvCOAJdGqAATZMXgPNAY315.pdf)"
+  },
+  {
+    "question": "에어차이나에서 애완동물을 기내에 반입할 수 있나요?",
+    "answer": "에어차이나에서는 안내견, 청각견, 감정 지원 동물 등 특별한 경우를 제외하고는 애완동물의 기내 반입이 허용되지 않습니다. 일반적인 애완동물은 위탁 수하물로 운송해야 하며, 사전에 항공사에 신청하여 승인을 받아야 합니다. [출처: Air China](https://m.airchina.com/c/invoke/xlxx%40pg)"
+  },
+  {
+    "question": "중국남방항공에서 알코올이 함유된 액체를 기내에 반입할 수 있나요?",
+    "answer": "중국남방항공에서는 알코올 함량이 24% 이하인 음료는 제한 없이 기내 반입이 가능하며, 24% 초과 70% 이하인 경우 승객 1인당 최대 5리터까지 위탁 수하물로 운송할 수 있습니다. 알코올 함량이 70%를 초과하는 액체는 기내 반입 및 위탁 수하물로의 운송이 모두 금지되어 있습니다. [출처: China Southern Airlines](https://www.csair.com/en/tourguide/luggage_service/restrictions/)"
+  },
+  {
+    "question": "에어차이나에서 화기성 물질을 위탁 수하물로 운송할 수 있나요?",
+    "answer": "아니요, 에어차이나에서는 폭발성 또는 가연성 물질 및 장치는 위탁 수하물로 운송할 수 없습니다. 이러한 물품은 항공 안전을 위해 엄격히 금지되어 있습니다. [출처: Air China](https://m.airchina.com/c/invoke/xlxx%40pg)"
+  },
+  {
+    "question": "중국남방항공에서 의료용 산소통을 기내에 반입할 수 있나요?",
+    "answer": "중국남방항공에서는 의료용 산소통의 기내 반입이 제한되어 있습니다. 필요한 경우, 항공사에 사전에 문의하여 승인을 받아야 하며, 특정 조건을 충족해야 합니다. [출처: China Southern Airlines](https://www.csair.com/en/tourguide/luggage_service/restrictions/)"
+  },
+  {
+    "question": "중국동방항공에서 알코올이 함유된 약품이나 화장품을 기내에 반입할 수 있나요?",
+    "answer": "중국동방항공에서는 여행 시 필요한 알코올이 함유된 약품이나 화장품의 기내 반입이 허용됩니다. 그러나 각 용기의 용량이 100ml를 초과하지 않아야 하며, 총량은 1리터를 넘지 않아야 합니다. 또한, 이러한 물품은 투명하고 재밀봉 가능한 플라스틱 봉투에 담아야 합니다. [출처: China Eastern Airlines](https://us.ceair.com/newCMS/us/en/content/en_Header/headerBottom/service/Infomation/ticket/201903/t20190305_2973.html)"
+  },
+  {
+    "question": "중국남방항공에서 전자담배를 위탁 수하물로 부칠 수 있나요?",
+    "answer": "아니요, 중국남방항공에서는 전자담배의 위탁 수하물 운송이 금지되어 있습니다. 전자담배는 기내 수하물로만 반입이 가능하며, 비행 중 사용은 엄격히 금지되어 있습니다. [출처: China Southern Airlines](https://www.csair.com/en/tourguide/luggage_service/restrictions/unaccept_items/)"
+  },
+  {
+    "question": "에어차이나에서 라이터를 기내에 반입할 수 있나요?",
+    "answer": "아니요, 에어차이나에서는 라이터의 기내 반입이 금지되어 있습니다. 승객은 라이터를 휴대하거나 위탁 수하물로 부칠 수 없습니다. [출처: Air China](https://www.airchina.us/US/GB/info/unacceptable-as-baggage/)"
+  },
+  {
+    "question": "중국동방항공에서 리튬 배터리가 포함된 전자기기를 위탁 수하물로 부칠 수 있나요?",
+    "answer": "아니요, 중국동방항공에서는 리튬 배터리가 포함된 전자기기의 위탁 수하물 운송이 금지되어 있습니다. 이러한 전자기기는 기내 수하물로만 반입이 허용됩니다. [출처: China Eastern Airlines](https://us.ceair.com/newCMS/us/en/content/en_Header/headerBottom/service/Infomation/ticket/201903/t20190305_2973.html)"
+  },
+  {
+    "question": "중국남방항공에서 스포츠 장비를 기내에 반입할 수 있나요?",
+    "answer": "중국남방항공에서는 골프채, 야구 배트 등 스포츠 장비의 기내 반입이 금지되어 있습니다. 이러한 장비는 위탁 수하물로만 운송이 허용됩니다. [출처: China Southern Airlines](https://www.csair.com/en/tourguide/luggage_service/restrictions/)"
+  },
+  {
+    "question": "에어차이나에서 자기 물질을 기내에 반입할 수 있나요?",
+    "answer": "아니요, 에어차이나에서는 강한 자기장을 발생시키는 물질의 기내 반입이 금지되어 있습니다. 이러한 물질은 항공기의 안전 운항에 영향을 줄 수 있으므로 허용되지 않습니다. [출처: Air China](https://www.airchina.us/US/GB/info/unacceptable-as-baggage/)"
+  },
+  {
+    "question": "중국동방항공에서 액체 물품을 기내에 반입할 수 있나요?",
+    "answer": "중국동방항공에서는 국제 및 지역 항공편의 경우, 각 용기가 100ml 이하인 액체, 젤, 에어로졸 제품을 투명하고 재밀봉 가능한 1리터 이하의 플라스틱 봉투에 담아 기내에 반입할 수 있습니다. 승객당 한 개의 봉투만 허용됩니다. 국내 항공편의 경우, 모든 액체의 기내 반입이 금지되어 있으며, 필요한 경우 위탁 수하물로 운송해야 합니다. [출처: China Eastern Airlines](https://www.ceair.com/global/en_static/Announcement/BaggageService/CarryonBaggage/)"
+  },
+  {
+    "question": "중국남방항공에서 무술 도구를 기내에 반입할 수 있나요?",
+    "answer": "아니요, 중국남방항공에서는 무술 도구의 기내 반입이 금지되어 있습니다. 이러한 도구는 위탁 수하물로만 운송이 허용됩니다. [출처: China Southern Airlines](https://www.csair.com/en/tourguide/luggage_service/restrictions/)"
+  },
+  {
+    "question": "에어차이나에서 방사성 물질을 수하물로 운송할 수 있나요?",
+    "answer": "아니요, 에어차이나에서는 방사성 물질의 수하물 운송이 엄격히 금지되어 있습니다. [출처: Air China](https://www.airchina.us/US/GB/info/unacceptable-as-baggage/)"
+  },
+  {
+    "question": "중국동방항공에서 건전지를 위탁 수하물로 부칠 수 있나요?",
+    "answer": "아니요, 중국동방항공에서는 모든 종류의 예비 배터리, 포함하여 리튬 배터리, 니켈-수소 배터리 등은 위탁 수하물로 부칠 수 없으며, 기내 수하물로만 반입이 허용됩니다. [출처: China Eastern Airlines](https://www.ceair.com/global/en_static/Announcement/ScheduledGuidelines/boardingCheckin/safetyRules/)"
+  },
+  {
+    "question": "중국 본토, 홍콩, 마카오를 오가는 항공편에서 전기 충격기나 조절형 곤봉을 반입할 수 있나요?",
+    "answer": "아니요, 중국 본토, 홍콩, 마카오를 오가는 항공편에서는 전기 충격기, 압축 스프레이 가스, 조절형 곤봉 등의 물품 반입이 엄격히 금지되어 있습니다. 이러한 물품은 위탁 수하물로도 운송할 수 없습니다. [출처: China Airlines](https://www.china-airlines.com/kr/ko/fly/prepare-for-the-fly/baggage/dangerous-goods-information)"
+  },
+  {
+    "question": "중국 출발 항공편에서 라이터를 기내에 반입할 수 있나요?",
+    "answer": "아니요, 중국 출발 항공편의 경우 라이터는 휴대 수하물 및 위탁 수하물 모두 반입이 금지되어 있습니다. 따라서 라이터는 소지하지 않는 것이 좋습니다. [출처: 대한항공](https://www.koreanair.com/contents/plan-your-travel/baggage/restricted-item)"
+  },
+  {
+    "question": "중국남방항공에서 기내에서 전자담배를 사용할 수 있나요?",
+    "answer": "아니요, 중국남방항공의 모든 항공편은 금연 구역이며, 기내 모든 구역에서 담배, 전자담배 및 유사 제품의 흡연이 허용되지 않습니다. [출처: China Southern Airlines](https://www.csair.com/kr/ko/orders/order/conditions/)"
+  },
+  {
+    "question": "중국 출발 항공편에서 물티슈를 기내에 반입할 수 있나요?",
+    "answer": "일반적으로 물티슈는 액체류로 취급되며, 휴대용 크기(약 10매 정도) 외에 장수가 많은 물티슈의 경우 반입이 불가능할 수 있습니다. 특히 중국 출발 항공편의 경우 규정이 엄격할 수 있으므로, 휴대용 소형 물티슈만 기내 반입을 권장합니다. [출처: Skyscanner](https://www.skyscanner.co.kr/news/tips/prohibited-items-on-board)"
+  },
+  {
+    "question": "중국 항공사에서 된장이나 고추장을 기내에 반입할 수 있나요?",
+    "answer": "된장, 고추장 등 젤 형태의 음식물은 액체류로 간주되어 기내 반입이 제한될 수 있습니다. 따라서 이러한 음식물은 위탁 수하물로 운송하는 것이 좋습니다. [출처: Skyscanner](https://www.skyscanner.co.kr/news/tips/prohibited-items-on-board)"
+  }
+]
