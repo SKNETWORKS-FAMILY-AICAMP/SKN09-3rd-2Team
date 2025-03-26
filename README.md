@@ -87,7 +87,7 @@ https://www.sisajournal-e.com/news/articleView.html?idxno=409149
 <br><br>
 
 ## 4. 시스템 아키텍처
-
+<img src="https://github.com/user-attachments/assets/c33e76a9-40f9-4549-8e1c-f4dcd714f193" width="700" height="600">
 
 <br><br>
 
