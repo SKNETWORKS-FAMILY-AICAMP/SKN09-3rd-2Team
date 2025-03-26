@@ -49,8 +49,8 @@
 
 ## 2. 프로젝트 소개
 #### 프로젝트 필요성
-<img src="https://github.com/user-attachments/assets/248799a3-7949-413e-ad92-6e66c1e1b778" width="500" height="500">
-<img src="https://github.com/user-attachments/assets/2445c053-66dd-4b1e-97b6-1a16e05f2c15" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/248799a3-7949-413e-ad92-6e66c1e1b778" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/2445c053-66dd-4b1e-97b6-1a16e05f2c15" width="300" height="300">
 
 
 
