@@ -1,4 +1,4 @@
-# [SKN09-2nd-2Team]
+# [SKN09-3nd-2Team]
 ✅ SKN AI FAMILY CAMP 9기<br>
 
 
