@@ -87,7 +87,7 @@
 <br>
 
 ## 4. 시스템 아키텍처
-<img src="./images/sys_architecture.png" width="700" height="600">
+<img src="./images/sys_architecture.png">
 
 <br>
 
