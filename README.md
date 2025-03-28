@@ -36,8 +36,6 @@
 | 윤 환 | 이세진 | 이재혁 | 허정윤 |
 |------|------|------|------|
 | [@MNYH](https://github.com/MNYH) | [@sejin](https://github.com/tpwls9494) | [@ohdyo](https://github.com/ohdyo) | [@jy](https://github.com/devunis) |
-
-
 ---
 
 # 🎼Project Overview
@@ -87,7 +85,7 @@
 <br>
 
 ## 4. 시스템 아키텍처
-<img src="./images/sys_architecture.png">
+![sys_architecture](https://github.com/user-attachments/assets/d63e00ac-626f-475f-a3c3-6ba041213b7d)
 
 <br>
 
@@ -97,9 +95,12 @@
 <br>
 
 ## 6. 요구사항 명세서
-<img src='./images/Require_doc.png'/>
+![Require_doc](https://github.com/user-attachments/assets/35ccdaeb-fc3c-4ad3-a78b-8f264b14480a)
+
 <br>
-<img src='./images/function_doc.png'>
+
+![function_doc](https://github.com/user-attachments/assets/15f5ebaf-f6dd-4711-bc27-175fe6e83ef0)
+
 <br>
 
 ## 7. 수집한 데이터 및 전처리 요약
