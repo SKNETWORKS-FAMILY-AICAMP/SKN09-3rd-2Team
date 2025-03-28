@@ -58,8 +58,8 @@
 <br>
 
 **출처**  
-[https://news.koreanair.com/%ed%8e%b8%ec%95%88%ed%95%98%ea%b3%a0-%ec%95%88%ec%a0%84%ed%95%9c-%ed%95%ad%ea%b3%b5%ec%97%ac%ed%96%89-%ec%9c%84%ed%95%b4-%eb%8c%80%ed%95%9c%ed%95%ad%ea%b3%b5%ec%9d%b4-%ea%bc%ad-%ed%95%84/](https://www.yna.co.kr/view/AKR20250129029651003)
-https://www.sisajournal-e.com/news/articleView.html?idxno=409149
+- [에어부산 화재원인은 보조배터리?…지난달에도 비슷한 사고 있어(종합)](https://www.yna.co.kr/view/AKR20250129029651003)
+- [[이건왜] 비행기 내 보조배터리, 더 위험한 이유](https://www.sisajournal-e.com/news/articleView.html?idxno=409149)
 
 <br>
 
