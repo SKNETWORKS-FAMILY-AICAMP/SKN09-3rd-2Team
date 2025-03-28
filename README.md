@@ -53,7 +53,9 @@
 
 <br>
 
-<a href="https://www.sisajournal-e.com/news/articleView.html?idxno=409149">기사 링크</a>
+**출처**  
+- [에어부산 화재원인은 보조배터리?…지난달에도 비슷한 사고 있어(종합)](https://www.yna.co.kr/view/AKR20250129029651003)
+- [[이건왜] 비행기 내 보조배터리, 더 위험한 이유](https://www.sisajournal-e.com/news/articleView.html?idxno=409149)
 
 
 #### 프로젝트 목표
