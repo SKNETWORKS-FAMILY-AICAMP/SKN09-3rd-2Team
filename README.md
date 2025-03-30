@@ -66,9 +66,9 @@
 
 - 개발 언어:  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - 개발 환경: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![RunPod](https://img.shields.io/badge/-RunPod-5F43DC?logo=cloud&logoColor=white)
-- VectorDB :  ![FAISS](https://img.shields.io/badge/-FAISS-009999?logo=meta&logoColor=white)
+- VectorDB :  ![ChromaDB](https://img.shields.io/badge/ChromaDB-white)
 - LLM : ![Gemma](https://img.shields.io/badge/-Gemma-4285F4?logo=google&logoColor=white)
-- 프레임워크 : <img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF_transformer%20-yellow'> 
+- 프레임워크 : <img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF_transformer%20-yellow'> ![Gradio](https://img.shields.io/badge/Gradio-orange)
 - 협업 툴 : ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 
@@ -83,6 +83,8 @@
 
 ## 5. WBS
 <img src="./images/wbs.png">
+<img width="1082" alt="스크린샷 2025-03-31 오전 2 57 11" src="https://github.com/user-attachments/assets/3742c840-9aa1-486d-97ba-94bc30388af8" />
+
 
 
 <br>
@@ -112,6 +114,10 @@
 
 ## 8. DB 연동 구현 코드 (링크만)
 - 랭 스미스 들어가야하는곳
+<img width="1431" alt="스크린샷 2025-03-30 오후 1 56 21" src="https://github.com/user-attachments/assets/f7b88867-d936-4923-841b-9bd9bfc1e0bb" />
+<img width="784" alt="스크린샷 2025-03-30 오후 5 18 06" src="https://github.com/user-attachments/assets/62d5c625-3ac6-41d6-bcc2-3c732ff0bf86" />
+<img width="530" alt="스크린샷 2025-03-30 오후 5 19 02" src="https://github.com/user-attachments/assets/ed187b91-1dde-4984-94af-93491455967d" />
+<img width="1423" alt="스크린샷 2025-03-30 오후 1 56 38" src="https://github.com/user-attachments/assets/95225e30-0d1a-4814-8ed1-baaa5f54abe4" />
 
 <br>
 
