@@ -209,15 +209,6 @@ Gemma3 기반 파인튜닝된 LLM이 다음 조건에 맞는지 검증:
 - **추론 포맷 일관화**: Markdown 또는 표 기반으로 응답 포맷 통일
 - **출처 명시 옵션 추가**: 신뢰 확보를 위한 링크 혹은 출처 포함
 
-#### ✅ 개선된 로직 반영 내용 (국가 감지 기반)
-
-- **허용 국가만 응답**  
-  질문 내 국가 키워드 감지 후 응답 허용 여부 판단
-
-- **감지 불가 국가 질문에 대해 부정 응답 처리**  
-  `"관련 데이터가 없습니다."` 반환으로 명확히 거절
-
-
 <br>
 
 ## 10. 진행 과정 중 프로그램 개선 노력
@@ -247,6 +238,12 @@ Gemma3 기반 파인튜닝된 LLM이 다음 조건에 맞는지 검증:
 <br><br>
 
 ## 11. 수행결과(테스트/시연 페이지)
+<img width="630" alt="스크린샷 2025-03-30 오후 11 23 44" src="https://github.com/user-attachments/assets/416ab982-377a-4633-beb8-8905f4e353d3" />
+
+![image](https://github.com/user-attachments/assets/e2986044-80a0-4a7a-83ff-8c1ccac9321d)
+
+![image (1)](https://github.com/user-attachments/assets/3a4ae4d3-972a-4b0c-888c-c4816f0535a0)
+
 
 
 <br><br>
