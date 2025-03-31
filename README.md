@@ -62,7 +62,7 @@
 <br><br>
 
 ## 3. 기술 스택 & 사용한 모델 (임베딩 모델, LLM)
-## 🧰 기술 스택 및 사용한 모델
+### 🧰 기술 스택 및 사용한 모델
 
 - 개발 언어:  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - 개발 환경: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![RunPod](https://img.shields.io/badge/-RunPod-5F43DC?logo=cloud&logoColor=white)
@@ -71,15 +71,19 @@
 - 프레임워크 : <img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF_transformer%20-yellow'> ![Gradio](https://img.shields.io/badge/Gradio-orange)
 - 협업 툴 : ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
+#### 베이스 모델 선정 이유
+![image](https://github.com/user-attachments/assets/46ab3aa3-b0e7-4de8-8a4f-b734c86f1ccf)
+<a href="https://www.aitimes.com/news/articleView.html?idxno=168730">뉴스 자료</a>
+- gemma3는 뛰어난 자연어 처리 능력을 보입니다. 적은 리소스로도 높은 정확도를 제공하여, 개인 또는 소규모 팀이 활용하기에 매우 적합
+
 
 
 <br>
 
 ## 4. 시스템 아키텍처
-![sys_architecture](https://github.com/user-attachments/assets/d63e00ac-626f-475f-a3c3-6ba041213b7d)
 <img width="1109" alt="스크린샷 2025-03-31 오전 2 17 05" src="https://github.com/user-attachments/assets/f18584ec-0c51-40ec-aa80-6e29a4d1749f" />
 
-<br>
+<br><br>
 
 ## 5. WBS
 <img width="1082" alt="스크린샷 2025-03-31 오전 2 57 11" src="https://github.com/user-attachments/assets/3742c840-9aa1-486d-97ba-94bc30388af8" />
@@ -96,6 +100,8 @@
 <br>
 
 ## 7. 수집한 데이터 및 전처리 요약
+- 한국인이 자주가는 해외여행지 top 10을 기준으로 지정
+- 국가별로 법령, 항공사, 블로그에서 관련 데이터를 수집 
 - 수집한 데이터의 개행, 링크, 출처등과 관련된 일반적인 전처리 진행
 
 | 순서 | 내용                   | 설명 |
@@ -106,6 +112,17 @@
 | 4    | 특수 문자 제거         | 한글, 영문, 숫자, 일부 구두점을 제외한 특수 문자 제거 |
 | 5    | 양쪽 공백 제거         | 문자열의 좌우 공백 제거 |
 
+- **텍스트 청크 분할**
+  - 500자 단위로 텍스트 분할
+  - 각 청크는 100자씩 겹침
+
+- **임베딩 모델 설정**
+  - 한국어에 특화된 ko-sroberta-multitask 모델 사용
+  - 임베딩 벡터 정규화 (normalize_embeddings=True)
+
+- **Chroma 벡터 저장소 생성**
+  - Chroma DB에 벡터 저장소 생성 및 "chroma_index_500_100" 경로에 저장
+  - 추후 검색이나 QA 시스템 구축 시 활용 가능
 
 <br>
 
@@ -243,6 +260,11 @@ Gemma3 기반 파인튜닝된 LLM이 다음 조건에 맞는지 검증:
 
 ![image (1)](https://github.com/user-attachments/assets/3a4ae4d3-972a-4b0c-888c-c4816f0535a0)
 
+![포함된국가](https://github.com/user-attachments/assets/b08483d2-b5f7-4e09-84fa-5ff4c22dab38)
+
+![미포함된국가](https://github.com/user-attachments/assets/8e5d8627-3a1e-444f-8a90-705b63373d03)
+
+
 
 
 <br><br>
@@ -266,7 +288,7 @@ Gemma3 기반 파인튜닝된 LLM이 다음 조건에 맞는지 검증:
 <br><br>
 
 # 🎧한 줄 회고
-- 윤환 : 
-- 이세진 : 
-- 이재혁 :
+- 윤 환  : 
+- 이세진 : LangChain을 활용한 국가별 필터링 RAG 시스템 개발 과정에서 벡터 검색과 대화 기능 통합은 쉽지 않았지만, 오류를 하나씩 해결하며 완성한 대화형 여행 정보 시스템을 만들어 큰 성취감을 느꼈습니다.
+- 이재혁 : 베이스 모델에 파인튜닝을 하는 과정, 레그를 붙이는 과정, 모두 원하는대로 이뤄지지 않았다. 최종 결과를 확인했을 때 내가 원하는 출력을 주지 않아 답답한 상황에서 프롬프트를 조정했을 때 바뀌고 있다는 것을 확인했다. 코드만이 모델의 결과 도출에 영향을 주는게 아니라 프롬프트의 텍스트 수정 또한 중요하다는 것을 깨닫게 된 프로젝트였다.
 - 허정윤 :
