@@ -130,7 +130,6 @@
 [DB 연동 구현 파일 바로가기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-3rd-2Team/blob/main/fine_tune/testing_yh.ipynb)
 <img width="1431" alt="스크린샷 2025-03-30 오후 1 56 21" src="https://github.com/user-attachments/assets/f7b88867-d936-4923-841b-9bd9bfc1e0bb" />
 <img width="784" alt="스크린샷 2025-03-30 오후 5 18 06" src="https://github.com/user-attachments/assets/62d5c625-3ac6-41d6-bcc2-3c732ff0bf86" />
-<img width="530" alt="스크린샷 2025-03-30 오후 5 19 02" src="https://github.com/user-attachments/assets/ed187b91-1dde-4984-94af-93491455967d" />
 <img width="1423" alt="스크린샷 2025-03-30 오후 1 56 38" src="https://github.com/user-attachments/assets/95225e30-0d1a-4814-8ed1-baaa5f54abe4" />
 
 <br>
