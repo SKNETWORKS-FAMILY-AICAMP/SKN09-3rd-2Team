@@ -62,7 +62,7 @@
 <br><br>
 
 ## 3. 기술 스택 & 사용한 모델 (임베딩 모델, LLM)
-## 🧰 기술 스택 및 사용한 모델
+### 🧰 기술 스택 및 사용한 모델
 
 - 개발 언어:  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - 개발 환경: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![RunPod](https://img.shields.io/badge/-RunPod-5F43DC?logo=cloud&logoColor=white)
@@ -70,6 +70,10 @@
 - LLM : ![Gemma](https://img.shields.io/badge/-Gemma-4285F4?logo=google&logoColor=white)
 - 프레임워크 : <img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF_transformer%20-yellow'> ![Gradio](https://img.shields.io/badge/Gradio-orange)
 - 협업 툴 : ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+#### 베이스 모델 선정 이유
+<a href="https://www.aitimes.com/news/articleView.html?idxno=168730">뉴스 자료</a>
+- gemma3는 뛰어난 자연어 처리 능력을 보입니다. 적은 리소스로도 높은 정확도를 제공하여, 개인 또는 소규모 팀이 활용하기에 매우 적합
 
 
 
@@ -270,7 +274,7 @@ Gemma3 기반 파인튜닝된 LLM이 다음 조건에 맞는지 검증:
 <br><br>
 
 # 🎧한 줄 회고
-- 윤환 : 
-- 이세진 : 
-- 이재혁 :
+- 윤 환  : 
+- 이세진 : LangChain을 활용한 국가별 필터링 RAG 시스템 개발 과정에서 벡터 검색과 대화 기능 통합은 쉽지 않았지만, 오류를 하나씩 해결하며 완성한 대화형 여행 정보 시스템을 만들어 큰 성취감을 느꼈습니다.
+- 이재혁 : 베이스 모델에 파인튜닝을 하는 과정, 레그를 붙이는 과정, 모두 원하는대로 이뤄지지 않았다. 최종 결과를 확인했을 때 내가 원하는 출력을 주지 않아 답답한 상황에서 프롬프트를 조정했을 때 바뀌고 있다는 것을 확인했다. 코드만이 모델의 결과 도출에 영향을 주는게 아니라 프롬프트의 텍스트 수정 또한 중요하다는 것을 깨닫게 된 프로젝트였다.
 - 허정윤 :
