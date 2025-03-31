@@ -72,6 +72,7 @@
 - 협업 툴 : ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 #### 베이스 모델 선정 이유
+![image](https://github.com/user-attachments/assets/46ab3aa3-b0e7-4de8-8a4f-b734c86f1ccf)
 <a href="https://www.aitimes.com/news/articleView.html?idxno=168730">뉴스 자료</a>
 - gemma3는 뛰어난 자연어 처리 능력을 보입니다. 적은 리소스로도 높은 정확도를 제공하여, 개인 또는 소규모 팀이 활용하기에 매우 적합
 
