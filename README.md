@@ -76,7 +76,6 @@
 <br>
 
 ## 4. 시스템 아키텍처
-![sys_architecture](https://github.com/user-attachments/assets/d63e00ac-626f-475f-a3c3-6ba041213b7d)
 <img width="1109" alt="스크린샷 2025-03-31 오전 2 17 05" src="https://github.com/user-attachments/assets/f18584ec-0c51-40ec-aa80-6e29a4d1749f" />
 
 <br>
@@ -242,6 +241,11 @@ Gemma3 기반 파인튜닝된 LLM이 다음 조건에 맞는지 검증:
 ![image](https://github.com/user-attachments/assets/e2986044-80a0-4a7a-83ff-8c1ccac9321d)
 
 ![image (1)](https://github.com/user-attachments/assets/3a4ae4d3-972a-4b0c-888c-c4816f0535a0)
+
+![포함된국가](https://github.com/user-attachments/assets/b08483d2-b5f7-4e09-84fa-5ff4c22dab38)
+
+![미포함된국가](https://github.com/user-attachments/assets/8e5d8627-3a1e-444f-8a90-705b63373d03)
+
 
 
 
