@@ -1,63 +1,123 @@
 {
   "test_cases": [
     {
-      "id": "Q1",
-      "question": "리튬 배터리 포함된 노트북은 수하물로 부칠 수 있나요?",
-      "expected_answer": "리튬 배터리가 포함된 노트북 컴퓨터는 위탁 수하물로 운송할 수 없으며, 기내 수하물로만 운반해야 합니다."
+      "id": "QA001",
+      "question": "화물과 수하물의 차이는 무엇인가요?",
+      "expected_answer": "화물은 Airway Bill이 필요한 수출입 화물, 수하물은 승객 소지 carry-on"
     },
     {
-      "id": "Q2",
-      "question": "항공화물에서 위험물이란 어떤 화물인가요?",
-      "expected_answer": "사람의 건강, 안전, 재산에 심각한 위해를 줄 수 있는 물질이며, IATA DGR 기준 class 1~9로 분류됩니다."
+      "id": "QA002",
+      "question": "강아지를 샌프란시스코에 데려가려면 어떻게 하나요?",
+      "expected_answer": "예약팀에 문의하며, 화물 운송 가능 여부 확인 필요"
     },
     {
-      "id": "Q3",
-      "question": "화물의 cut-off time은 어떻게 되나요?",
-      "expected_answer": "화물 반입 3시간 30분, 일반 AWB 접수 2시간 30분, 위험물은 5시간 전입니다."
+      "id": "QA003",
+      "question": "위험물이란 무엇인가요?",
+      "expected_answer": "IATA 규정상 class 1~9로 분류된 위험물 설명 포함"
     },
     {
-      "id": "Q4",
-      "question": "유골을 운구하려면 어떤 서류가 필요한가요?",
-      "expected_answer": "유해: 사망진단서, 방부처리증명서, 영사확인서 / 유골: 사망진단서, 화장증명서, 영사확인서가 필요합니다."
+      "id": "QA004",
+      "question": "유해 유골 운반에 필요한 서류는?",
+      "expected_answer": "사망진단서, 화장증명서, 영사확인서 등"
     },
     {
-      "id": "Q5",
-      "question": "애완동물 동반 시 수속은 어떻게 하나요?",
-      "expected_answer": "수하물로 간주되며, 예약팀에 문의하셔야 하며, 수가 많거나 hand-carry가 불가능할 경우 화물로 운송됩니다."
+      "id": "QA005",
+      "question": "화물 cut-off time 알려주세요.",
+      "expected_answer": "화물 종류별 시간: 일반 3시간 30분, 위험물 5시간 등"
     },
     {
-      "id": "Q6",
+      "id": "QA006",
+      "question": "Spot Rate 입력은 어떻게 하나요?",
+      "expected_answer": "사용자 매뉴얼 확인 필요"
+    },
+    {
+      "id": "QA007",
+      "question": "리튬 배터리 기내 반입 가능한가요?",
+      "expected_answer": "100Wh 이하 기내 수하물 가능, 160Wh 초과 불가"
+    },
+    {
+      "id": "QA008",
+      "question": "전자담배 반입 가능한가요?",
+      "expected_answer": "기내 수하물만 가능, 사용은 금지"
+    },
+    {
+      "id": "QA009",
+      "question": "칼 기내 반입 가능 여부",
+      "expected_answer": "기내 반입 금지, 위탁 수하물로만 가능"
+    },
+    {
+      "id": "QA010",
+      "question": "보조 배터리 반입 규정은?",
+      "expected_answer": "100Wh 이하 가능, 160Wh 초과 불가, 위탁 수하물 금지"
+    },
+    {
+      "id": "QA011",
+      "question": "일본 여행 시 추천 관광지는 어디인가요?",
+      "expected_answer": "도쿄, 교토, 오사카, 홋카이도 등 주요 도시 관광지 안내"
+    },
+    {
+      "id": "QA012",
+      "question": "대만 여행 중 꼭 먹어봐야 할 음식은 무엇인가요?",
+      "expected_answer": "딤섬, 망고빙수, 우육면 등 대만 대표 음식 추천"
+    },
+    {
+      "id": "QA013",
+      "question": "필리핀에서 사용할 수 있는 통화는 무엇인가요?",
+      "expected_answer": "필리핀 페소(PHP)가 공식 통화이며 환전 필요"
+    },
+    {
+      "id": "QA014",
+      "question": "중국 여행 시 주의해야 할 교통 수단은 무엇인가요?",
+      "expected_answer": "지하철, 택시, 디디추싱 앱 등 이용 시 유의사항 포함"
+    },
+    {
+      "id": "NG001",
       "question": "태국에서 금지된 물품은?",
       "expected_answer": "해당 국가에 대한 정보는 제공하지 않습니다."
     },
     {
-      "id": "Q7",
-      "question": "호주에서 주의할 점이 있나요?",
+      "id": "NG002",
+      "question": "프랑스 식사 예절은 어떤가요?",
       "expected_answer": "해당 국가에 대한 정보는 제공하지 않습니다."
     },
     {
-      "id": "Q8",
-      "question": "프랑스 식사 예절 알려주세요.",
+      "id": "NG003",
+      "question": "호주의 문화적 특징은?",
       "expected_answer": "해당 국가에 대한 정보는 제공하지 않습니다."
     },
     {
-      "id": "Q9",
-      "question": "영국 지하철 이용법은?",
+      "id": "NG004",
+      "question": "영국 지하철 이용법 알려줘",
       "expected_answer": "해당 국가에 대한 정보는 제공하지 않습니다."
     },
     {
-      "id": "Q10",
-      "question": "대만에 소세지 들고 가도돼?",
+      "id": "NG005",
+      "question": "독일 여행 시 주의사항은?",
       "expected_answer": "해당 국가에 대한 정보는 제공하지 않습니다."
     },
     {
-      "id": "Q11",
-      "question": "일본 여행지 추천",
+      "id": "NG006",
+      "question": "스페인 팁 문화는?",
       "expected_answer": "해당 국가에 대한 정보는 제공하지 않습니다."
     },
     {
-      "id": "Q12",
-      "question": "대만에 맛있는 음식",
+      "id": "NG007",
+      "question": "캐나다의 생활 방식은?",
+      "expected_answer": "해당 국가에 대한 정보는 제공하지 않습니다."
+    },
+    {
+      "id": "NG008",
+      "question": "이탈리아 대중교통 이용법",
+      "expected_answer": "해당 국가에 대한 정보는 제공하지 않습니다."
+    },
+    {
+      "id": "NG009",
+      "question": "브라질 문화와 생활 예절",
+      "expected_answer": "해당 국가에 대한 정보는 제공하지 않습니다."
+    },
+    {
+      "id": "NG010",
+      "question": "러시아 금지 물품은?",
       "expected_answer": "해당 국가에 대한 정보는 제공하지 않습니다."
     }
   ]
