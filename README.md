@@ -130,7 +130,6 @@
 [DB 연동 구현 파일 바로가기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-3rd-2Team/blob/main/fine_tune/testing_yh.ipynb)
 <img width="1431" alt="스크린샷 2025-03-30 오후 1 56 21" src="https://github.com/user-attachments/assets/f7b88867-d936-4923-841b-9bd9bfc1e0bb" />
 <img width="784" alt="스크린샷 2025-03-30 오후 5 18 06" src="https://github.com/user-attachments/assets/62d5c625-3ac6-41d6-bcc2-3c732ff0bf86" />
-<img width="530" alt="스크린샷 2025-03-30 오후 5 19 02" src="https://github.com/user-attachments/assets/ed187b91-1dde-4984-94af-93491455967d" />
 <img width="1423" alt="스크린샷 2025-03-30 오후 1 56 38" src="https://github.com/user-attachments/assets/95225e30-0d1a-4814-8ed1-baaa5f54abe4" />
 
 <br>
@@ -220,8 +219,6 @@ Gemma3 기반 파인튜닝된 LLM이 다음 조건에 맞는지 검증:
 
 - **거절 응답 정책 강화**: RAG 결과가 없거나 금지 국가일 경우 무조건 거절하도록 명확한 로직 필요
 - **정답 정제 및 기준 통일**: Wh 기준, 배터리 규정 등에서 표준화 필요
-- **추론 포맷 일관화**: Markdown 또는 표 기반으로 응답 포맷 통일
-- **출처 명시 옵션 추가**: 신뢰 확보를 위한 링크 혹은 출처 포함
 
 <br>
 
@@ -256,7 +253,7 @@ Gemma3 기반 파인튜닝된 LLM이 다음 조건에 맞는지 검증:
 <br><br>
 
 ## 11. 수행결과(테스트/시연 페이지)
-[jeongyoonhuh/travel-checker 모델 바로가기](https://huggingface.co/jeongyoonhuh/travel-checker)
+<a href="https://huggingface.co/jeongyoonhuh/travel-checker"><img width="989" alt="스크린샷 2025-03-31 오후 2 45 42" src="https://github.com/user-attachments/assets/bf3d9c1f-ffb4-44b7-9aca-97ee893e7b6c" /></a>
 
 <img width="630" alt="스크린샷 2025-03-30 오후 11 23 44" src="https://github.com/user-attachments/assets/416ab982-377a-4633-beb8-8905f4e353d3" />
 
