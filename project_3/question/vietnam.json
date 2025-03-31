@@ -1,0 +1,122 @@
+[
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 기내 반입이 금지된 물품은 무엇인가요?",
+    "answer": "베트남 항공에서는 폭발물, 가연성 물질, 부식성 물질, 방사성 물질, 무기류, 날카로운 물건 등은 기내 반입이 금지되어 있습니다. 자세한 내용은 베트남 항공의 제한 물품 안내를 참고하시기 바랍니다. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 리튬 배터리를 기내 반입할 수 있나요?",
+    "answer": "비엣젯 항공에서는 리튬 배터리를 기내 반입할 수 있으나, 용량에 따라 제한이 있을 수 있습니다. 일반적으로 100Wh 이하의 리튬 배터리는 허용되며, 100Wh 초과 160Wh 이하의 배터리는 항공사의 승인이 필요합니다. 160Wh를 초과하는 배터리는 반입이 금지되어 있습니다. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 액체류 반입 규정은 어떻게 되나요?",
+    "answer": "베트남 항공의 국제선에서는 각 용기는 100ml 이하로 밀봉되어야 하며, 총 1리터 이하의 액체류를 투명한 지퍼백에 담아야 합니다. 국내선의 경우 이러한 제한이 없지만, 알코올 함량이 높은 음료 등은 별도의 규정을 따릅니다. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 스포츠 장비를 위탁 수하물로 부칠 수 있나요?",
+    "answer": "네, 비엣젯 항공에서는 골프채 세트 등 스포츠 장비를 위탁 수하물로 부칠 수 있습니다. 단, 각 장비의 무게는 32kg을 초과할 수 없으며, 크기는 119cm × 119cm × 81cm를 넘지 않아야 합니다. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 전자담배를 기내 반입할 수 있나요?",
+    "answer": "전자담배는 기내 반입이 허용되지만, 사용 및 충전은 금지되어 있습니다. 또한, 위탁 수하물로 부치는 것은 허용되지 않습니다. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 파워뱅크를 기내에 가져갈 수 있나요?",
+    "answer": "파워뱅크는 기내 반입 수하물로만 허용되며, 위탁 수하물로는 부칠 수 없습니다. 또한, 비행 중에는 파워뱅크를 사용하거나 충전하는 것이 금지되어 있습니다. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 악취가 나는 음식물의 반입 규정은 어떻게 되나요?",
+    "answer": "베트남 항공에서는 어류 소스나 두리안과 같은 강한 냄새가 나는 음식물의 기내 반입을 권장하지 않습니다. 이러한 음식물은 위탁 수하물로 운송할 수 있으며, 각 승객당 최대 3리터 또는 3kg의 액체류와 5kg의 두리안 또는 기타 악취가 나는 물품을 허용합니다. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 휴대 수하물로 허용되는 크기와 무게는 어떻게 되나요?",
+    "answer": "비엣젯 항공에서는 기내 반입 수하물의 크기가 56cm x 36cm x 23cm를 초과하지 않아야 하며, 무게는 최대 7kg까지 허용됩니다. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 의약품을 기내 반입할 수 있나요?",
+    "answer": "개인 치료를 위한 비방사성 의약품(스프레이 포함)은 기내 반입이 허용됩니다. 각 용기는 0.5kg 또는 0.5리터를 초과하지 않아야 하며, 승객 1인당 총 2kg 또는 2리터까지 허용됩니다. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 휴대 수하물로 금지된 물품은 무엇인가요?",
+    "answer": "비엣젯 항공에서는 날카로운 물건, 무기류, 폭발물, 가연성 물질, 방사성 물질 등은 휴대 수하물로 반입이 금지되어 있습니다. 자세한 내용은 비엣젯 항공의 금지 물품 안내를 참고하시기 바랍니다. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 휴대 수하물의 허용 크기와 무게는 어떻게 되나요?",
+    "answer": "베트남 항공에서는 비즈니스 클래스 승객은 최대 18kg의 휴대 수하물을, 프리미엄 이코노미 및 이코노미 클래스 승객은 최대 12kg의 휴대 수하물을 허용합니다. 각 수하물의 크기는 56cm x 36cm x 23cm를 초과하지 않아야 합니다. [출처](https://www.vietnamairlines.com/us/en/travel-information/baggage/baggage-allowance-hand-baggage)"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 기내 반입이 금지된 물품은 무엇인가요?",
+    "answer": "비엣젯 항공에서는 폭발물, 가연성 물질, 방사성 물질, 무기류, 날카로운 물건 등은 기내 반입이 금지되어 있습니다. 자세한 내용은 비엣젯 항공의 금지 물품 안내를 참고하시기 바랍니다. [출처](https://www.vietjetair.com/en/pages/items-prohibited-from-transportation-1638838148614)"
+  },
+  {
+    "question": "밤부 항공(Bamboo Airways)에서 리튬 배터리를 기내 반입할 수 있나요?",
+    "answer": "밤부 항공에서는 160Wh 이하의 리튬 배터리를 기내 반입할 수 있습니다. 그러나 160Wh를 초과하는 배터리는 반입이 금지되어 있습니다. [출처](https://www.bambooairways.com/vn/en/travel-info/baggage-info/restricted-baggage)"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 전자담배를 기내 반입할 수 있나요?",
+    "answer": "베트남 항공에서는 전자담배의 운송을 어떠한 경우에도 허용하지 않습니다. [출처](https://www.vietnamairlines.com/vn/en/travel-information/baggage/restricted-baggage/cigarette-and-electronic-cigarette)"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 파워뱅크를 위탁 수하물로 부칠 수 있나요?",
+    "answer": "비엣젯 항공에서는 파워뱅크를 위탁 수하물로 부칠 수 없으며, 기내 반입 수하물로만 허용됩니다. [출처](https://www.vietjetair.com/en/news/travel-guides-1665635013747/can-you-bring-a-power-bank-on-vietjet-flights-1742871245710)"
+  },
+  {
+    "question": "밤부 항공(Bamboo Airways)에서 스포츠 장비를 위탁 수하물로 부칠 수 있나요?",
+    "answer": "밤부 항공에서는 스포츠 장비를 위탁 수하물로 부칠 수 있으나, 무게와 크기에 제한이 있을 수 있습니다. 자세한 내용은 밤부 항공의 특별 수하물 안내를 참고하시기 바랍니다. [출처](https://www.bambooairways.com/vn/en/travel-info/baggage-info/restricted-baggage)"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 의약품을 기내 반입할 수 있나요?",
+    "answer": "비방사성 의약품(스프레이 포함)은 기내 반입이 허용되며, 각 용기는 0.5kg 또는 0.5리터를 초과하지 않아야 하고, 승객 1인당 총 2kg 또는 2리터까지 허용됩니다. [출처](https://www.vietnamairlines.com/us/en/travel-information/baggage/restricted-baggage/medical-drugs-make-up-aerosol)"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 휴대 수하물로 허용되는 개인 물품은 무엇인가요?",
+    "answer": "비엣젯 항공에서는 소형 핸드백, 책, 잡지, 카메라, 어린이 식사 키트, 면세품 가방 등 개인 물품을 휴대 수하물로 허용합니다. 단, 각 물품의 크기는 30cm × 20cm × 10cm를 초과하지 않아야 합니다. [출처](https://www.vietjetair.com/en/pages/baggage-service-1608369253127)"
+  },
+  {
+    "question": "밤부 항공(Bamboo Airways)에서 스마트 가방을 기내 반입할 수 있나요?",
+    "answer": "밤부 항공에서는 리튬 배터리가 내장된 스마트 가방의 경우, 배터리를 분리할 수 있는 경우에만 기내 반입이 허용됩니다. 배터리를 분리할 수 없는 스마트 가방은 반입이 금지되어 있습니다. [출처](https://www.bambooairways.com/vn/en/travel-info/baggage-info/restricted-baggage)"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 휴대 수하물로 금지된 물품은 무엇인가요?",
+    "answer": "베트남 항공에서는 폭발물, 가연성 물질, 방사성 물질, 무기류, 날카로운 물건 등은 휴대 수하물로 반입이 금지되어 있습니다. 자세한 내용은 베트남 항공의 제한 물품 안내를 참고하시기 바랍니다. [출처](https://www.vietnamairlines.com/vn/en/travel-information/baggage/restricted-baggage)"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 휴대 수하물로 반입이 금지된 물품은 무엇인가요?",
+    "answer": "베트남 항공에서는 폭발물, 가연성 물질, 방사성 물질, 무기류, 날카로운 물건 등은 휴대 수하물로 반입이 금지되어 있습니다. 자세한 내용은 베트남 항공의 제한 물품 안내를 참고하시기 바랍니다. [출처](https://www.vietnamairlines.com/vn/en/travel-information/baggage/restricted-baggage)"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 전자담배를 기내 반입할 수 있나요?",
+    "answer": "비엣젯 항공에서는 전자담배의 기내 반입이 금지되어 있습니다. 자세한 내용은 비엣젯 항공의 금지 물품 안내를 참고하시기 바랍니다. [출처](https://www.vietjetair.com/en/pages/items-prohibited-from-transportation-1638838148614)"
+  },
+  {
+    "question": "밤부 항공(Bamboo Airways)에서 리튬 배터리를 위탁 수하물로 부칠 수 있나요?",
+    "answer": "밤부 항공에서는 160Wh 이하의 리튬 배터리를 위탁 수하물로 부칠 수 없습니다. 리튬 배터리는 기내 반입 수하물로만 허용됩니다. [출처](https://www.bambooairways.com/au/en/travel-info/baggage-info/restricted-baggage)"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 스포츠 장비를 위탁 수하물로 부칠 수 있나요?",
+    "answer": "베트남 항공에서는 골프채 세트 등 스포츠 장비를 위탁 수하물로 부칠 수 있습니다. 단, 각 장비의 무게와 크기에 제한이 있을 수 있으므로, 자세한 내용은 베트남 항공의 특별 수하물 안내를 참고하시기 바랍니다. [출처](https://www.vietnamairlines.com/us/en/travel-information/baggage/special-baggage)"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 액체류 반입 규정은 어떻게 되나요?",
+    "answer": "비엣젯 항공에서는 국제선의 경우 각 용기는 100ml 이하로 밀봉되어야 하며, 총 1리터 이하의 액체류를 투명한 지퍼백에 담아야 합니다. 국내선의 경우 이러한 제한이 없지만, 자세한 내용은 비엣젯 항공의 수하물 안내를 참고하시기 바랍니다. [출처](https://www.vietjetair.com/en/pages/baggage-service-1608369253127)"
+  },
+  {
+    "question": "밤부 항공(Bamboo Airways)에서 스마트 가방을 위탁 수하물로 부칠 수 있나요?",
+    "answer": "밤부 항공에서는 리튬 배터리가 내장된 스마트 가방의 경우, 배터리를 분리할 수 있는 경우에만 위탁 수하물로 부칠 수 있습니다. 배터리를 분리할 수 없는 스마트 가방은 반입이 금지되어 있습니다. [출처](https://www.bambooairways.com/en/travel-info/baggage-info/conditional-carriage-of-baggage)"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 휴대 수하물로 허용되는 개인 물품은 무엇인가요?",
+    "answer": "베트남 항공에서는 소형 핸드백, 노트북 가방, 카메라, 우산 등 개인 물품을 휴대 수하물로 허용합니다. 단, 각 물품의 크기와 무게는 휴대 수하물 규정을 준수해야 합니다. [출처](https://www.vietnamairlines.com/us/en/travel-information/baggage/baggage-allowance-hand-baggage)"
+  },
+  {
+    "question": "비엣젯 항공(VietJet Air)에서 휴대 수하물로 반입이 금지된 물품은 무엇인가요?",
+    "answer": "비엣젯 항공에서는 날카로운 물건, 무기류, 폭발물, 가연성 물질, 방사성 물질 등은 휴대 수하물로 반입이 금지되어 있습니다. 자세한 내용은 비엣젯 항공의 금지 물품 안내를 참고하시기 바랍니다. [출처](https://www.vietjetair.com/en/pages/items-prohibited-from-transportation-1638838148614)"
+  },
+  {
+    "question": "밤부 항공(Bamboo Airways)에서 휴대 수하물로 허용되는 크기와 무게는 어떻게 되나요?",
+    "answer": "밤부 항공에서는 기내 반입 수하물의 크기가 56cm x 36cm x 23cm를 초과하지 않아야 하며, 무게는 최대 7kg까지 허용됩니다. 자세한 내용은 밤부 항공의 휴대 수하물 안내를 참고하시기 바랍니다. [출처](https://www.bambooairways.com/en/travel-info/baggage-info/carry-on-baggage)"
+  },
+  {
+    "question": "베트남 항공(Vietnam Airlines)에서 전자기기를 기내에서 사용할 수 있나요?",
+    "answer": "베트남 항공에서는 비행 중 일부 전자기기의 사용이 허용되지만, 이착륙 시에는 사용이 제한될 수 있습니다. 자세한 내용은 승무원의 안내를 따르시기 바랍니다. [출처](https://www.vietnamairlines.com/us/en/travel-information/baggage/restricted-baggage/portable-electronic-devices)"
+  }
+]
