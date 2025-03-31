@@ -120,11 +120,9 @@
 
 - **임베딩 모델 설정**
   - 한국어에 특화된 ko-sroberta-multitask 모델 사용
-  - 임베딩 벡터 정규화 (normalize_embeddings=True)
 
 - **Chroma 벡터 저장소 생성**
-  - Chroma DB에 벡터 저장소 생성 및 "chroma_index_500_100" 경로에 저장
-  - 추후 검색이나 QA 시스템 구축 시 활용 가능
+  - Chroma DB에 벡터 저장소 생성 및 "chroma_index" 로 저장
 
 <br>
 
