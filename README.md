@@ -82,10 +82,7 @@
 <br>
 
 ## 5. WBS
-<img src="./images/wbs.png">
 <img width="1082" alt="스크린샷 2025-03-31 오전 2 57 11" src="https://github.com/user-attachments/assets/3742c840-9aa1-486d-97ba-94bc30388af8" />
-
-
 
 <br>
 
