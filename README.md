@@ -254,7 +254,7 @@ Gemma3 기반 파인튜닝된 LLM이 다음 조건에 맞는지 검증:
 <br><br>
 
 ## 11. 수행결과(테스트/시연 페이지)
-[jeongyoonhuh/travel-checker 모델 업로드](https://huggingface.co/jeongyoonhuh/travel-checker)
+[jeongyoonhuh/travel-checker 모델 바로가기](https://huggingface.co/jeongyoonhuh/travel-checker)
 
 <img width="630" alt="스크린샷 2025-03-30 오후 11 23 44" src="https://github.com/user-attachments/assets/416ab982-377a-4633-beb8-8905f4e353d3" />
 
